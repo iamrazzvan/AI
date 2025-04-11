@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bikes</folder>
+	<filename>bike03.png</filename>
+	<path>C:\Users\Razva\OneDrive\CS-UBB_CJ\Anul_II\2nd semester\AI\Laborator\lab04\data\bikes\bike03.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>146</ymin>
+			<xmax>346</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>147</ymin>
+			<xmax>195</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
